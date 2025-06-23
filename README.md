@@ -45,9 +45,8 @@ This project is a full-stack **Data Analytics solution** designed to extract val
 
 ## ▶️  Video
 
-Watch the full workflow and dashboard build in this [screen recording]("C:\Users\Nishant\Downloads\Screenity video - Jun 24, 2025.mp4").
+Watch the full workflow and dashboard build in this ([!screen recording]"").
 
----
 
 ## 🧠 Learnings
 
